@@ -8,8 +8,5 @@ namespace EspacioTareas
         public bool completed {get; set; }
     }
 
-    public class Tareas
-    {
-        
-    }
+    
 }

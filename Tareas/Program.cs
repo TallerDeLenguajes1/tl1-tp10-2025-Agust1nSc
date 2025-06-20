@@ -18,3 +18,6 @@ foreach (var tareaAux in tareas.Where(tareaAux => tareaAux.completed))
 {
     Console.WriteLine("Tarea:" + tareaAux.title + "Estado: Realizada");
 }
+
+string archivoJson = JsonSerializer.Serialize(tareas);
+File.WriteAllText("tareas.json", archivoJson);
