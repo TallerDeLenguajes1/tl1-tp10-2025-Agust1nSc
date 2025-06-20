@@ -1,0 +1,15 @@
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\bin\Debug\net9.0\Usuarios.exe
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\bin\Debug\net9.0\Usuarios.deps.json
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\bin\Debug\net9.0\Usuarios.runtimeconfig.json
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\bin\Debug\net9.0\Usuarios.dll
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\bin\Debug\net9.0\Usuarios.pdb
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\obj\Debug\net9.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\obj\Debug\net9.0\Usuarios.AssemblyInfoInputs.cache
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\obj\Debug\net9.0\Usuarios.AssemblyInfo.cs
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\obj\Debug\net9.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\obj\Debug\net9.0\Usuarios.sourcelink.json
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\obj\Debug\net9.0\Usuarios.dll
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\obj\Debug\net9.0\refint\Usuarios.dll
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\obj\Debug\net9.0\Usuarios.pdb
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\obj\Debug\net9.0\Usuarios.genruntimeconfig.cache
+C:\tp10\tl1-tp10-2025-Agust1nSc\Usuarios\obj\Debug\net9.0\ref\Usuarios.dll
